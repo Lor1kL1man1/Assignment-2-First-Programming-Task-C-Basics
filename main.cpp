@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-    // TODO: Declare variables
+    // TODO: Declare variables here
     string fullName;
     int age;
     string studyProgram;
